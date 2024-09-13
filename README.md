@@ -1,8 +1,7 @@
-# React + Vite
+# punyaweb.vercel.app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Teknologi yang Digunakan:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React JS: Library JavaScript untuk membangun antarmuka pengguna yang dinamis.
+- Vite: Build tool yang cepat untuk pengembangan web modern.
+- Tailwind CSS: Framework CSS untuk membangun desain custom dengan utilitas kelas.
