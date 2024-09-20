@@ -47,7 +47,7 @@ export default function Service() {
                   <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
                 </svg>
 
-                <span className="text-gray-700"> 3 Email Domain </span>
+                <span className="text-gray-700"> Email Gratis </span>
               </li>
 
               <li className="flex items-center gap-1">
@@ -135,7 +135,7 @@ export default function Service() {
                   <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
                 </svg>
 
-                <span className="text-gray-700"> 3 Email Domain </span>
+                <span className="text-gray-700"> Email Gratis </span>
               </li>
 
               <li className="flex items-center gap-1">
