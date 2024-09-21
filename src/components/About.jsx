@@ -39,18 +39,17 @@ export default function About() {
 
             <a className="block rounded-xl border border-gray-100 p-4 shadow-sm hover:border-gray-200 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring" href="#" onClick={handleClick}>
               <span className="inline-block rounded-lg bg-gray-50 p-3">
-                <svg className="size-6" xmlns="http://www.w3.org/2000/svg" width="1.4rem" height="1.4rem" viewBox="0 0 24 24">
-                  <rect width="512" height="512" fill="none" />
+                <svg xmlns="http://www.w3.org/2000/svg" width="1.8rem" height="1.8rem" viewBox="0 0 24 24">
                   <path
                     fill="black"
-                    d="M2 6c.55 0 1-.45 1-1V4c0-.55.45-1 1-1h1c.55 0 1-.45 1-1s-.45-1-1-1H4C2.34 1 1 2.34 1 4v1c0 .55.45 1 1 1m3 15H4c-.55 0-1-.45-1-1v-1c0-.55-.45-1-1-1s-1 .45-1 1v1c0 1.66 1.34 3 3 3h1c.55 0 1-.45 1-1s-.45-1-1-1M20 1h-1c-.55 0-1 .45-1 1s.45 1 1 1h1c.55 0 1 .45 1 1v1c0 .55.45 1 1 1s1-.45 1-1V4c0-1.66-1.34-3-3-3m2 17c-.55 0-1 .45-1 1v1c0 .55-.45 1-1 1h-1c-.55 0-1 .45-1 1s.45 1 1 1h1c1.66 0 3-1.34 3-3v-1c0-.55-.45-1-1-1m-3-3.13V9.13c0-.72-.38-1.38-1-1.73l-5-2.88c-.31-.18-.65-.27-1-.27s-.69.09-1 .27L6 7.39c-.62.36-1 1.02-1 1.74v5.74c0 .72.38 1.38 1 1.73l5 2.88c.31.18.65.27 1 .27s.69-.09 1-.27l5-2.88c.62-.35 1-1.01 1-1.73m-8 2.3l-4-2.3v-4.63l4 2.33zm1-6.33L8.04 8.53L12 6.25l3.96 2.28zm5 4.03l-4 2.3v-4.6l4-2.33z"
-                  />
+                    d="M3.323 12c0 3.438 2 6.4 4.892 7.808L4.077 8.469A8.65 8.65 0 0 0 3.323 12M12 20.677a8.8 8.8 0 0 0 2.885-.492l-.062-.116l-2.67-7.307l-2.6 7.561c.77.23 1.593.354 2.447.354M13.192 7.93l3.139 9.33l.869-2.892c.37-1.2.654-2.061.654-2.807c0-1.077-.385-1.816-.708-2.385c-.446-.723-.854-1.33-.854-2.039c0-.8.6-1.538 1.462-1.538h.107A8.65 8.65 0 0 0 12 3.323a8.67 8.67 0 0 0-7.246 3.908l.554.015c.907 0 2.307-.115 2.307-.115c.477-.023.531.661.062.715c0 0-.47.062-1 .085l3.17 9.4l1.9-5.692l-1.355-3.708a16 16 0 0 1-.907-.077c-.47-.03-.416-.746.053-.723c0 0 1.431.115 2.285.115c.908 0 2.308-.115 2.308-.115c.469-.023.53.661.061.715c0 0-.469.054-1 .085m3.17 11.569a8.676 8.676 0 0 0 3.253-11.662a8.2 8.2 0 0 1-.6 4zM12 22a10 10 0 1 1 0-20a10 10 0 0 1 0 20"
+                  ></path>
                 </svg>
               </span>
 
-              <h2 className="mt-2 font-bold sm:text-xl">Teknologi Terbaru</h2>
+              <h2 className="mt-2 font-bold sm:text-xl">Platform yang Fleksibel</h2>
 
-              <p className="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600 lg:text-base">Website Anda akan dibangun dengan teknologi terkini untuk memastikan kinerja yang optimal.</p>
+              <p className="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600 lg:text-base">Sesuaikan tampilan dan fungsionalitas website Anda sesuai kebutuhan.</p>
             </a>
 
             <a className="block rounded-xl border border-gray-100 p-4 shadow-sm hover:border-gray-200 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring" href="#" onClick={handleClick}>
