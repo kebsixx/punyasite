@@ -10,7 +10,7 @@ export default function Home() {
 
           <p className="mt-4 sm:text-xl/relaxed">Dengan harga yang terjangkau, Anda bisa mendapatkan website yang berkualitas.</p>
 
-          <div className="mt-8 flex flex-wrap justify-center gap-4 px-32 sm:px-0">
+          <div className="mt-8 flex flex-wrap justify-center gap-4 px-2 sm:px-0">
             <a className="block w-full rounded bg-primary px-12 py-3 text-sm font-medium text-white shadow hover:bg-red-700 focus:outline-none focus:ring active:bg-red-500 sm:w-auto" href="#contact">
               Konsultasi Gratis Sekarang!
             </a>
