@@ -9,7 +9,7 @@ export default function Footer() {
             </a>
           </div>
 
-          <p className="mt-4 text-center text-sm  lg:mt-0 lg:text-right text-gray-400">Copyright &copy; 2022. All rights reserved.</p>
+          <p className="mt-4 text-center text-sm  lg:mt-0 lg:text-right text-gray-400">Copyright &copy; 2024. All rights reserved.</p>
         </div>
       </div>
     </footer>
