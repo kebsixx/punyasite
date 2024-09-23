@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="sm:flex sm:items-center sm:justify-between">
           <div className="flex justify-center sm:justify-start text-white">
             <a href="#" className="font-bold text-lg">
-              punyaweb.com
+              punyasite
             </a>
           </div>
 
