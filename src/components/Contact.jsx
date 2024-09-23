@@ -21,7 +21,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="https://wa.me/625175280571?text=Halo%20Saya%20Ingin%20Konsultasi" target="_blank"
+            href="https://wa.me/6285175280571?text=Halo%20Saya%20Ingin%20Konsultasi" target="_blank"
             className="inline-flex items-center justify-center w-full px-4 py-2.5 mt-4 overflow-hidden text-sm text-white transition-colors duration-300 bg-blue-600 rounded-lg shadow sm:w-auto sm:mx-2 sm:mt-0 hover:bg-blue-500 focus:ring focus:ring-blue-300 focus:ring-opacity-80"
           >
             <svg xmlns="http://www.w3.org/2000/svg" width="1.4rem" height="1.4rem" viewBox="0 0 24 24">
